@@ -1,5 +1,5 @@
 # Lyricslets
-Search for sons per artist
+Search for songs per artist
 
 
 # Motivation
