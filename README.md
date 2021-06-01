@@ -8,7 +8,7 @@ To implement bare bone API consumption in Adroid Kotlin
 # API
 https://lyrics.ovh/
 
-# Tool
+# Tools
 
 - Kotlin
 
