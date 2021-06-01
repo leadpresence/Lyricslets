@@ -6,7 +6,7 @@ Search for songs per artist
 To implement bare bone API consumption in Adroid Kotlin
 
 # API
-https://api.lyrics.ovh/
+https://lyrics.ovh/
 
 # Tool
 Kotlin
