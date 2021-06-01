@@ -9,6 +9,8 @@ To implement bare bone API consumption in Adroid Kotlin
 https://lyrics.ovh/
 
 # Tool
--- Kotlin
--- Retrofit
--- ViewBinding
+
+- Kotlin
+
+- Retrofit
+- ViewBinding
